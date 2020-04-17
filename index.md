@@ -1,7 +1,3 @@
----
-title: IniEd — Lister plugin for Total Commander
----
-
 This is index.md file
 ---------------------
 
